@@ -1,1 +1,21 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+
+.breed-select {
+    display: none;
+}
+
+.error {
+    display: none;
+}
+
+.loader.is-hidden {
+    display: none;
+}
+
+.cat-info {
+    display: none;
+}
+
+.is-visible {
+    display: flex;
+}
